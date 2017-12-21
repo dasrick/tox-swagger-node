@@ -1,0 +1,21 @@
+{
+  "name": "tox-swagger-node",
+  "version": "0.0.0",
+  "description": "playground for swagger base on node",
+  "author": "Enrico Hoffmann <dasrick@gmail.com>",
+  "license": "Apache-2.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/tox-swagger-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dasrick/tox-swagger-node/issues"
+  },
+  "homepage": "https://github.com/dasrick/tox-swagger-node#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
